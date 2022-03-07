@@ -1,0 +1,73 @@
+body{
+  background-image: url("background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center top;
+  color: white;
+}
+
+#contenitore0{
+
+  opacity: 0.7;
+  background-color: black;
+  border-radius: 10px;
+  width: 1150px;
+  margin: auto;
+  padding: 70px;
+  margin-top: 35px;
+}
+
+.logo{
+  width: 150px;
+}
+
+.Title{
+  font-size: 26px;
+  color: lime;
+  text-align: center;
+}
+
+.intestazione{
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.button{
+  text-align: center;
+  background-color: lime;
+  width: 1000px;
+  height: 30px;
+  margin: auto;
+  padding: 10px;
+}
+
+.testo1, .testo2, .testo3{
+  display: inline-block;
+
+}
+
+.arrow:before{
+  content: "\21A6";
+}
+
+.carica1{
+  background-color: peru;
+  width: 350px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+.carica2{
+  background-color: lime;
+  width: 550px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+.carica3{
+  background-color: brown;
+  width: 100px;
+  height: 25px;
+  border-radius: 10px;
+}
